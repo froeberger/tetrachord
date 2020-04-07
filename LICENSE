@@ -1,24 +1,29 @@
 -----------------
 A L L O W E D
 -----------------
-All may use, copy, modify, publish, distribute this software.
+All may freely use, download, reproduce, copy, modify, publish, distribute this software.
 
 
 -----------------
 F O R B I D D E N
 -----------------
-Forbidden to use, copy, modify, publish, or distribute this software in any manner which results in financial gain.  
+Forbidden to use, download, reproduce, copy, modify, publish, or distribute this software in any manner which results in financial gain.  
+
 Forbidden to claim this software as your own or to re-license, sub-license, trademark, copyright, or patent it in any manner.
 
 
 -------------------
 R E Q U I R E D
 -------------------
-Maintain intact with every copy, publishing, distribution of this software this notice of license.  Maintain intact the 
-following notice of the identity and contact information of the copyright holder and author:
+Maintain intact with every copy, reproduction, download, publishing, distribution of this software this notice of license.  
+
+Maintain intact the following notice of the identities and contact information of the copyright holders and authors:
 
 Frank O'Neill
 get.busy.with.froeberger@gmail.com
+
+John Chalmers
+jhchalmers@ucsd.edu
 
 
 -------------------
@@ -31,5 +36,4 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMA
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE 
 SOFTWARE.
 
-USING, COPYING, PUBLISHING, MODIFYING, OR DISTRIBUTING THIS SOFTWARE CONSTITUTES ACCEPTANCE OF THIS LICENSE AND ITS TERMS,
-CONDITIONS, REQUIREMENTS.
+USING, COPYING, DOWNLOADING, REPRODUCING, PUBLISHING, MODIFYING, OR DISTRIBUTING THIS SOFTWARE CONSTITUTES ACCEPTANCE OF THIS LICENSE AND ITS TERMS,CONDITIONS, REQUIREMENTS.
